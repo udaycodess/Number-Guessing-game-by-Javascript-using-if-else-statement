@@ -35,4 +35,4 @@ The goal is simple — guess the secret number in as few attempts as possible!
 
 This game will not work on mobile
 
-I will the GUI version of the game.
+I will also create a GUI version of this game so that it can be played on mobile devices as well.
