@@ -34,3 +34,5 @@ The goal is simple — guess the secret number in as few attempts as possible!
 ## Number-Guessing-game-by-Javascript-using-if-else-statement
 
 This game will not work on mobile
+
+I will the GUI version of the game.
