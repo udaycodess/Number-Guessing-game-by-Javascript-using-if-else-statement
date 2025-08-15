@@ -8,7 +8,6 @@ The goal is simple — guess the secret number in as few attempts as possible!
 ---
 
 ## ✨ Features
-- 🎲 **Random Number Generation** each time you play.
 - 🔢 User input validation to prevent invalid guesses.
 - ⏳ Limited number of attempts.
 - infinite-loop
